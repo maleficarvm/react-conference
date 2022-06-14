@@ -11,16 +11,16 @@ npm i
 npm start
 ```
 
-### 3. Backend
+### 3. Build
+
+```shell
+npm run build
+```
+
+### 4. Backend
 
 ```shell
 cd /server
 npm i
 npm start
-```
-
-### 3. Build
-
-```shell
-npm run build
 ```
