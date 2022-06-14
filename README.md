@@ -4,6 +4,10 @@
 
 ### 1. Clone the project
 
+```shell
+git clone https://github.com/maleficarvm/react-conference
+```
+
 ### 2. Run the project
 
 ```shell
