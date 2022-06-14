@@ -1,6 +1,6 @@
 # React Conference
 
-# Run Project
+## Run React
 
 ### 1. Clone the project
 
@@ -17,7 +17,7 @@ npm start
 npm run build
 ```
 
-### 4. Backend
+## Run Express Server
 
 ```shell
 cd /server
