@@ -11,6 +11,14 @@ npm i
 npm start
 ```
 
+### 3. Backend
+
+```shell
+cd /server
+npm i
+npm start
+```
+
 ### 3. Build
 
 ```shell
