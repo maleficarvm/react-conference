@@ -1,0 +1,7 @@
+User-agent: Yandex
+User-agent: Googlebot
+User-agent: StackRambler
+User-agent: Slurp
+Disallow: 
+Host: young.tsnigri.ru
+Sitemap: http:///sitemap.xml
